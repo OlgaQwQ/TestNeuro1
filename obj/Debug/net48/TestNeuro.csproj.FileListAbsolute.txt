@@ -1,0 +1,71 @@
+C:\Users\skipetrov_as\Desktop\TestNeuro\obj\Debug\net48\TestNeuro.csproj.AssemblyReference.cache
+C:\Users\skipetrov_as\Desktop\TestNeuro\obj\Debug\net48\TestNeuro.csproj.SuggestedBindingRedirects.cache
+C:\Users\skipetrov_as\Desktop\TestNeuro\obj\Debug\net48\Views\Windows\MainWindow.g.cs
+C:\Users\skipetrov_as\Desktop\TestNeuro\obj\Debug\net48\Views\Windows\Window1.g.cs
+C:\Users\skipetrov_as\Desktop\TestNeuro\obj\Debug\net48\App.g.cs
+C:\Users\skipetrov_as\Desktop\TestNeuro\obj\Debug\net48\GeneratedInternalTypeHelper.g.cs
+C:\Users\skipetrov_as\Desktop\TestNeuro\obj\Debug\net48\TestNeuro_MarkupCompile.cache
+C:\Users\skipetrov_as\Desktop\TestNeuro\obj\Debug\net48\TestNeuro_MarkupCompile.lref
+C:\Users\skipetrov_as\Desktop\TestNeuro\bin\Debug\net48\Models\Parameters.db
+C:\Users\skipetrov_as\Desktop\TestNeuro\bin\Debug\net48\TestNeuro.exe.config
+C:\Users\skipetrov_as\Desktop\TestNeuro\bin\Debug\net48\TestNeuro.exe
+C:\Users\skipetrov_as\Desktop\TestNeuro\bin\Debug\net48\TestNeuro.pdb
+C:\Users\skipetrov_as\Desktop\TestNeuro\bin\Debug\net48\CommonServiceLocator.dll
+C:\Users\skipetrov_as\Desktop\TestNeuro\bin\Debug\net48\EntityFramework.SqlServer.dll
+C:\Users\skipetrov_as\Desktop\TestNeuro\bin\Debug\net48\EntityFramework.dll
+C:\Users\skipetrov_as\Desktop\TestNeuro\bin\Debug\net48\FontAwesome5.Net.dll
+C:\Users\skipetrov_as\Desktop\TestNeuro\bin\Debug\net48\FontAwesome5.dll
+C:\Users\skipetrov_as\Desktop\TestNeuro\bin\Debug\net48\Microsoft.Xaml.Behaviors.dll
+C:\Users\skipetrov_as\Desktop\TestNeuro\bin\Debug\net48\GalaSoft.MvvmLight.Extras.dll
+C:\Users\skipetrov_as\Desktop\TestNeuro\bin\Debug\net48\GalaSoft.MvvmLight.Platform.dll
+C:\Users\skipetrov_as\Desktop\TestNeuro\bin\Debug\net48\GalaSoft.MvvmLight.dll
+C:\Users\skipetrov_as\Desktop\TestNeuro\bin\Debug\net48\System.Windows.Interactivity.dll
+C:\Users\skipetrov_as\Desktop\TestNeuro\bin\Debug\net48\Newtonsoft.Json.dll
+C:\Users\skipetrov_as\Desktop\TestNeuro\bin\Debug\net48\System.Data.SQLite.dll
+C:\Users\skipetrov_as\Desktop\TestNeuro\bin\Debug\net48\System.Data.SQLite.EF6.dll
+C:\Users\skipetrov_as\Desktop\TestNeuro\bin\Debug\net48\System.Data.SQLite.Linq.dll
+C:\Users\skipetrov_as\Desktop\TestNeuro\obj\Debug\net48\Views\Windows\MainWindow.baml
+C:\Users\skipetrov_as\Desktop\TestNeuro\obj\Debug\net48\Views\Windows\Window1.baml
+C:\Users\skipetrov_as\Desktop\TestNeuro\obj\Debug\net48\TestNeuro.g.resources
+C:\Users\skipetrov_as\Desktop\TestNeuro\obj\Debug\net48\TestNeuro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skipetrov_as\Desktop\TestNeuro\obj\Debug\net48\TestNeuro.AssemblyInfoInputs.cache
+C:\Users\skipetrov_as\Desktop\TestNeuro\obj\Debug\net48\TestNeuro.AssemblyInfo.cs
+C:\Users\skipetrov_as\Desktop\TestNeuro\obj\Debug\net48\TestNeuro.csproj.CoreCompileInputs.cache
+C:\Users\skipetrov_as\Desktop\TestNeuro\obj\Debug\net48\TestNeuro.csproj.CopyComplete
+C:\Users\skipetrov_as\Desktop\TestNeuro\obj\Debug\net48\TestNeuro.exe
+C:\Users\skipetrov_as\Desktop\TestNeuro\obj\Debug\net48\TestNeuro.pdb
+C:\Users\Senpai\Desktop\bedy s bashkoi\4.8NetFramework\bin\Debug\net48\TestNeuro.exe.config
+C:\Users\Senpai\Desktop\bedy s bashkoi\4.8NetFramework\bin\Debug\net48\TestNeuro.exe
+C:\Users\Senpai\Desktop\bedy s bashkoi\4.8NetFramework\bin\Debug\net48\TestNeuro.pdb
+C:\Users\Senpai\Desktop\bedy s bashkoi\4.8NetFramework\bin\Debug\net48\CommonServiceLocator.dll
+C:\Users\Senpai\Desktop\bedy s bashkoi\4.8NetFramework\bin\Debug\net48\EntityFramework.SqlServer.dll
+C:\Users\Senpai\Desktop\bedy s bashkoi\4.8NetFramework\bin\Debug\net48\EntityFramework.dll
+C:\Users\Senpai\Desktop\bedy s bashkoi\4.8NetFramework\bin\Debug\net48\FontAwesome5.Net.dll
+C:\Users\Senpai\Desktop\bedy s bashkoi\4.8NetFramework\bin\Debug\net48\FontAwesome5.dll
+C:\Users\Senpai\Desktop\bedy s bashkoi\4.8NetFramework\bin\Debug\net48\Microsoft.Xaml.Behaviors.dll
+C:\Users\Senpai\Desktop\bedy s bashkoi\4.8NetFramework\bin\Debug\net48\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Senpai\Desktop\bedy s bashkoi\4.8NetFramework\bin\Debug\net48\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Senpai\Desktop\bedy s bashkoi\4.8NetFramework\bin\Debug\net48\GalaSoft.MvvmLight.dll
+C:\Users\Senpai\Desktop\bedy s bashkoi\4.8NetFramework\bin\Debug\net48\System.Windows.Interactivity.dll
+C:\Users\Senpai\Desktop\bedy s bashkoi\4.8NetFramework\bin\Debug\net48\Newtonsoft.Json.dll
+C:\Users\Senpai\Desktop\bedy s bashkoi\4.8NetFramework\bin\Debug\net48\System.Data.SQLite.dll
+C:\Users\Senpai\Desktop\bedy s bashkoi\4.8NetFramework\bin\Debug\net48\System.Data.SQLite.EF6.dll
+C:\Users\Senpai\Desktop\bedy s bashkoi\4.8NetFramework\bin\Debug\net48\System.Data.SQLite.Linq.dll
+C:\Users\Senpai\Desktop\bedy s bashkoi\4.8NetFramework\obj\Debug\net48\TestNeuro.csproj.AssemblyReference.cache
+C:\Users\Senpai\Desktop\bedy s bashkoi\4.8NetFramework\obj\Debug\net48\TestNeuro.csproj.SuggestedBindingRedirects.cache
+C:\Users\Senpai\Desktop\bedy s bashkoi\4.8NetFramework\obj\Debug\net48\Views\Windows\MainWindow.g.cs
+C:\Users\Senpai\Desktop\bedy s bashkoi\4.8NetFramework\obj\Debug\net48\Views\Windows\Window1.g.cs
+C:\Users\Senpai\Desktop\bedy s bashkoi\4.8NetFramework\obj\Debug\net48\App.g.cs
+C:\Users\Senpai\Desktop\bedy s bashkoi\4.8NetFramework\obj\Debug\net48\GeneratedInternalTypeHelper.g.cs
+C:\Users\Senpai\Desktop\bedy s bashkoi\4.8NetFramework\obj\Debug\net48\TestNeuro_MarkupCompile.cache
+C:\Users\Senpai\Desktop\bedy s bashkoi\4.8NetFramework\obj\Debug\net48\TestNeuro_MarkupCompile.lref
+C:\Users\Senpai\Desktop\bedy s bashkoi\4.8NetFramework\obj\Debug\net48\Views\Windows\MainWindow.baml
+C:\Users\Senpai\Desktop\bedy s bashkoi\4.8NetFramework\obj\Debug\net48\Views\Windows\Window1.baml
+C:\Users\Senpai\Desktop\bedy s bashkoi\4.8NetFramework\obj\Debug\net48\TestNeuro.g.resources
+C:\Users\Senpai\Desktop\bedy s bashkoi\4.8NetFramework\obj\Debug\net48\TestNeuro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senpai\Desktop\bedy s bashkoi\4.8NetFramework\obj\Debug\net48\TestNeuro.AssemblyInfoInputs.cache
+C:\Users\Senpai\Desktop\bedy s bashkoi\4.8NetFramework\obj\Debug\net48\TestNeuro.AssemblyInfo.cs
+C:\Users\Senpai\Desktop\bedy s bashkoi\4.8NetFramework\obj\Debug\net48\TestNeuro.csproj.CoreCompileInputs.cache
+C:\Users\Senpai\Desktop\bedy s bashkoi\4.8NetFramework\obj\Debug\net48\TestNeuro.csproj.CopyComplete
+C:\Users\Senpai\Desktop\bedy s bashkoi\4.8NetFramework\obj\Debug\net48\TestNeuro.exe
+C:\Users\Senpai\Desktop\bedy s bashkoi\4.8NetFramework\obj\Debug\net48\TestNeuro.pdb

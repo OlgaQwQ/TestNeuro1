@@ -1,0 +1,65 @@
+﻿<Window x:Class="TestNeuro.Views.Windows.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:cmd="clr-namespace:TestNeuro.Infrastructure.Commands.Window1Commands"
+        xmlns:vm="clr-namespace:TestNeuro.ViewModels"
+        xmlns:local="clr-namespace:TestNeuro.Views.Windows"
+        mc:Ignorable="d"
+        DataContext="{Binding RelativeSource={RelativeSource Self}}"
+        Title="Список" Height="450" Width="800">
+    <Window.Resources>
+        <cmd:Converter x:Key="Converter"/>
+    </Window.Resources>
+    <DockPanel>
+        <DockPanel DockPanel.Dock="Right" LastChildFill="False">
+            <Button DockPanel.Dock="Bottom" Content="ОК" Margin="3,3" Padding="3,5" Width="70">
+                <Button.Command>
+                    <cmd:CloseWindowCommand/>
+                </Button.Command>
+            </Button>
+            <Button DockPanel.Dock="Top" Content="Вверх"  Margin="3,3" Padding="3,5" Width="70">
+                <Button.Command>
+                    <cmd:MoveListItenUp/>
+                </Button.Command>
+                <Button.CommandParameter>
+                    <MultiBinding Converter="{StaticResource Converter}">
+                        <Binding ElementName="ListBox" Path="ItemsSource"/>
+                        <Binding ElementName="ListBox" Path="SelectedItem"/>
+                    </MultiBinding>
+                </Button.CommandParameter>
+            </Button>
+            <Button  DockPanel.Dock="Top" Content="Вниз"  Margin="3,3" Padding="3,5" Width="70">
+                <Button.Command>
+                    <cmd:MoveListItenDown/>
+                </Button.Command>
+                <Button.CommandParameter>
+                    <MultiBinding Converter="{StaticResource Converter}">
+                        <Binding ElementName="ListBox" Path="ItemsSource"/>
+                        <Binding ElementName="ListBox" Path="SelectedItem"/>
+                    </MultiBinding>
+                </Button.CommandParameter>
+            </Button>
+            <Button DockPanel.Dock="Top" Content="Удалить"  Margin="3,3" Padding="3,5" Width="70">
+                <Button.Command>
+                    <cmd:RemoveListItem/>
+                </Button.Command>
+                <Button.CommandParameter>
+                    <MultiBinding Converter="{StaticResource Converter}">
+                        <Binding ElementName="ListBox" Path="ItemsSource"/>
+                        <Binding ElementName="ListBox" Path="SelectedItem"/>
+                    </MultiBinding>
+                </Button.CommandParameter>
+            </Button>
+            <Button CommandParameter="{Binding Path=_Parameter.ListItems, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" DockPanel.Dock="Top" Content="Добавить"  Margin="3,3" Padding="3,5" Width="70">
+                <Button.Command>
+                    <cmd:AddListItem/>
+                </Button.Command>
+            </Button>
+        </DockPanel>
+        <GroupBox DockPanel.Dock="Left" Header="Строки:">
+            <ListBox x:Name="ListBox" ItemsSource="{Binding Path=_Parameter.ListItems, Mode=TwoWay}" SelectedItem="{Binding SelectedListItem}"/>
+        </GroupBox>
+    </DockPanel>
+</Window>
